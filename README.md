@@ -17,7 +17,7 @@ Discover the best dining spots with FeastFinderAI! This project leverages advanc
 
 1. Clone this repository.
 2. Install required Python packages: `pandas`, `scikit-learn`, `folium`.
-3. Download the dataset and update the file path in `predictive_dining.py`.
+3. Download the dataset and update the file path in `predictive_dining_NY.ipynb`.
 4. Run `predictive_dining.py` to start the analysis.
 
 ## Features 🔍
